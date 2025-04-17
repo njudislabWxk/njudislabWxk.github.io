@@ -2,7 +2,7 @@
 title: "VisFlow: Adaptive Content-Aware Video Analytics on Collaborative Cameras"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/infocom24-visflow
 excerpt: 'We propose a mechanism for content-aware analytics on collaborative cameras, denoted as VisFlow, to increase the quality of detections and achieve the latency requirement by fully utilizing camera resources.'
 date: 2024-05-20
 venue: 'IEEE INFOCOM 2024 - IEEE Conference on Computer Communications '
