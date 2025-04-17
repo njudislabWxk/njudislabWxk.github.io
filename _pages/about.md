@@ -14,8 +14,8 @@ I received my **BS in Computer Science and Technology** from [Nanjing University
 
 ### **Career & Education History**  
 
-- **PhD Student**  [Dept. of Computer Science, Nanjing University](https://cs.nju.edu.cn/)  *2023 – 2028 (Expected)*  
-- **Undergraduate Student**  [Dept. of Computer Science, Nanjing University](https://cs.nju.edu.cn/)  *2019 – 2023*  
+- **PhD Student** [Dept. of Computer Science, Nanjing University](https://cs.nju.edu.cn/)  *2023 – 2028 (Expected)*  
+- **Undergraduate Student** [Dept. of Computer Science, Nanjing University](https://cs.nju.edu.cn/)  *2019 – 2023*  
 
 ### **Advisors & Collaborations**  
 
