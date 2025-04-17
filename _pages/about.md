@@ -19,7 +19,7 @@ I received my **BS degree in Computer Science and Technology** from [Nanjing Uni
 
 ### **Advisors & Collaborations**  
 
-- **PhD Advisor**: [Sheng Zhang](https://...) (*2023 – Present*)  
+- **PhD Advisor**: [Sheng Zhang]([https://...](https://cs.nju.edu.cn/sheng/)) (*2023 – Present*)  
 
 ### **Research Expertise**  
 
