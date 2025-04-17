@@ -1,7 +1,7 @@
 ---
 title: "MACRO: Incentivizing Multi-leader Game-based Pareto-efficient Crowdsourcing for Video Analytics"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/icde24-macro
 excerpt: 'We design an incentive mechanism for Multi-leader game-based video Analytics upon CROwdsourcing, named MACRO, to over-come the above situation. '
 date: 2024-5-13
