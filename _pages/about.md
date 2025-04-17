@@ -10,7 +10,7 @@ redirect_from:
 
 ### **Academic Background**  
 
-I received my **BS in Computer Science and Technology** from [Nanjing University](https://www.nju.edu.cn/) in 2023, where I am currently pursuing my **PhD** under the supervision of **Associate Professor Sheng Zhang** (member of the **State Key Laboratory for Novel Software Technology**). My research focuses on **edge computing** and **video analytics**, with applications in efficient and scalable intelligent systems.  
+I received my **BS degree in Computer Science and Technology** from [Nanjing University](https://www.nju.edu.cn/) in 2023, where I am currently pursuing my **PhD** under the supervision of **Associate Professor Sheng Zhang** (member of the **State Key Laboratory for Novel Software Technology**). My research focuses on **edge computing** and **video analytics**, with applications in efficient and scalable intelligent systems.  
 
 ### **Career & Education History**  
 
@@ -24,5 +24,6 @@ I received my **BS in Computer Science and Technology** from [Nanjing University
 ### **Research Expertise**  
 
 - **Video Analytics** (*2023 – Present*)  
-- **Edge Computing** (*2023 – Present*)  
+- **Edge Computing** (*2023 – Present*)
+- **Video Codecs** (*2023 – Present*)  
 
