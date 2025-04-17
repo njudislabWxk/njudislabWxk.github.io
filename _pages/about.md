@@ -14,16 +14,16 @@ I received my **BS degree in Computer Science and Technology** from [Nanjing Uni
 
 ### **Career & Education History**  
 
-- **PhD Student** [Dept. of Computer Science, Nanjing University](https://cs.nju.edu.cn/)  *2023 – 2028 (Expected)*  
-- **Undergraduate Student** [Dept. of Computer Science, Nanjing University](https://cs.nju.edu.cn/)  *2019 – 2023*  
+- PhD Student [Dept. of Computer Science, Nanjing University](https://cs.nju.edu.cn/)  *2023 – 2028 (Expected)*  
+- Undergraduate Student [Dept. of Computer Science, Nanjing University](https://cs.nju.edu.cn/)  *2019 – 2023*  
 
 ### **Advisors & Collaborations**  
 
-- **PhD Advisor**: [Sheng Zhang]([https://...](https://cs.nju.edu.cn/sheng/)) (*2023 – Present*)  
+- PhD Advisor: [Sheng Zhang](https://cs.nju.edu.cn/sheng/) (*2023 – Present*)  
 
 ### **Research Expertise**  
 
-- **Video Analytics** (*2023 – Present*)  
-- **Edge Computing** (*2023 – Present*)
-- **Video Codecs** (*2023 – Present*)  
+- Video Analytics (*2023 – Present*)  
+- Edge Computing (*2023 – Present*)
+- Video Codecs (*2023 – Present*)  
 
